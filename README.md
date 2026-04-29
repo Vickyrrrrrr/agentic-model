@@ -8,8 +8,8 @@ AgentIC converts plain English chip descriptions into fabrication-ready GDSII la
 
 | Platform | Binary | SHA-256 |
 |----------|--------|---------|
-| **Linux** (amd64) | [agentic-linux-amd64](https://github.com/VICKYRRRRRR/agentic-releases/releases/latest) | See release |
-| **macOS** (amd64) | [agentic-darwin-amd64](https://github.com/VICKYRRRRRR/agentic-releases/releases/latest) | See release |
+| **Linux** (amd64) | [agentic-linux-amd64](https://github.com/Vickyrrrrrr/agentic-model/releases/latest) | See release |
+| **macOS** (amd64) | [agentic-darwin-amd64](https://github.com/Vickyrrrrrr/agentic-model/releases/latest) | See release |
 
 > 💡 Windows support coming soon. Use WSL2 in the meantime.
 
