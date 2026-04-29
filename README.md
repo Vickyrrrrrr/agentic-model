@@ -11,6 +11,17 @@ AgentIC converts plain English chip descriptions into fabrication-ready GDSII la
 | **Linux** (amd64) | [agentic-linux-amd64](https://github.com/Vickyrrrrrr/agentic-model/releases/latest) | See release |
 | **macOS** (amd64) | [agentic-darwin-amd64](https://github.com/Vickyrrrrrr/agentic-model/releases/latest) | See release |
 
+### Or install via pip
+
+```
+pip install agentic-ic
+```
+
+Also available via GitHub Packages:
+```
+pip install agentic-ic --index-url https://pip.pkg.github.com/Vickyrrrrrr/agentic-model/simple/
+```
+
 > 💡 Windows support coming soon. Use WSL2 in the meantime.
 
 ## Quick Start
